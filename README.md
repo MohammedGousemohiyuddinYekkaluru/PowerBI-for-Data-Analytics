@@ -9,4 +9,5 @@
     - 1.2 Dashboard Build
 
 - **[2. Visualizations](https://github.com/MohammedGousemohiyuddinYekkaluru/PowerBI-for-Data-Analytics/tree/main/2_Visualizations)** -  Core Chart Types and Visual Elements
-    - 2.1 Column & Bar charts
+    - Column & Bar charts
+    - Line & Area Charts
