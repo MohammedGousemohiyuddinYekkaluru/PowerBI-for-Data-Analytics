@@ -12,3 +12,4 @@
     - Column & Bar charts
     - Line & Area Charts
     - Common Charts | Pie, Donut, Scatter Plot & Tree Map
+    - Map Charts | Map, Filled Map & ArcGIS Map
