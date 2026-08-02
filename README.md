@@ -13,3 +13,4 @@
     - Line & Area Charts
     - Common Charts | Pie, Donut, Scatter Plot & Tree Map
     - Map Charts | Map, Filled Map & ArcGIS Map
+    - Uncommon Charts | Ribbon, funnel & water fall charts
