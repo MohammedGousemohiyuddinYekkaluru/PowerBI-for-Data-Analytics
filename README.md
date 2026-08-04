@@ -15,3 +15,4 @@
     - Map Charts | Map, Filled Map & ArcGIS Map
     - Uncommon Charts | Ribbon, funnel & water fall charts
     - Tables, Matrices | Conditional formatting & Sparklines
+    - Cards | Card, Card(New), Multi row card, Guage & KPI card
