@@ -16,3 +16,4 @@
     - Uncommon Charts | Ribbon, funnel & water fall charts
     - Tables, Matrices | Conditional formatting & Sparklines
     - Cards | Card, Card(New), Multi row card, Guage & KPI card
+    - Slicers & Bttons| Tile, Between, Drop down & clear all slicers button
