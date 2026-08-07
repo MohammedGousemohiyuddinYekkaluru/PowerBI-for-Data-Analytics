@@ -18,3 +18,4 @@
     - Cards | Card, Card(New), Multi row card, Guage & KPI card
     - Slicers & Slicer Buttons| Tile, Between, Drop down & clear all slicers button
     - Buttons
+    - Data Jobs Dashboard
