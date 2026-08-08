@@ -19,3 +19,4 @@
     - Slicers & Slicer Buttons| Tile, Between, Drop down & clear all slicers button
     - Buttons
     - Data Jobs Dashboard
+    - Job Title Drill Through
