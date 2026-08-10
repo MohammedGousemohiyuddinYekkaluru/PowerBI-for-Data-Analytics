@@ -20,3 +20,6 @@
     - Buttons
     - Data Jobs Dashboard
     - Job Title Drill Through
+
+- **[3. Power Query](https://github.com/MohammedGousemohiyuddinYekkaluru/PowerBI-for-Data-Analytics/tree/main/3_Power_Query)** - Data Transformation and ETL
+    - 3.1_Power_Query_Intro
