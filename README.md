@@ -25,3 +25,4 @@
     - 3.1_Power_Query_Intro
     - 3.2_Power_Query_Editor
     - 3.3_Project2_Data_Import
+    - 3.4_Advanced_Transformations
