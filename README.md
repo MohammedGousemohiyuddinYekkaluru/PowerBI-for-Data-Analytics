@@ -26,3 +26,4 @@
     - 3.2_Power_Query_Editor
     - 3.3_Project2_Data_Import
     - 3.4_Advanced_Transformations
+    - 3.5_Append_&_Merge
