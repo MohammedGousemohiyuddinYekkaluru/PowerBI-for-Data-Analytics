@@ -28,3 +28,6 @@
     - 3.4_Advanced_Transformations
     - 3.5_Append_&_Merge
     - 3.6_M_Language
+
+- **[4. DAX](https://github.com/MohammedGousemohiyuddinYekkaluru/PowerBI-for-Data-Analytics/tree/main/4_DAX)** - Data Analysis Expressions
+    - 4.1_DAX_Intro
