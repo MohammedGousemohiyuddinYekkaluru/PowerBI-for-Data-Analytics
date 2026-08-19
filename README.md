@@ -32,3 +32,4 @@
 - **[4. DAX](https://github.com/MohammedGousemohiyuddinYekkaluru/PowerBI-for-Data-Analytics/tree/main/4_DAX)** - Data Analysis Expressions
     - 4.1_DAX_Intro
     - 4.2_Explicit_Measures
+    - 4.3_Parameters | Numbers & Field Parameters
